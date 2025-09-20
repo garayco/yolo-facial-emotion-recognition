@@ -1,0 +1,41 @@
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# --- Logs and temporary files ---
+*.log
+*.tmp
+*.swp
+*.bak
+
+# --- Trained models and outputs ---
+runs/
+*.pt
+*.onnx
+*.engine
+*.ckpt
+
+# --- Datasets ---
+dataset_yolo/
+Face emotion datasets/
+
+# --- Credentials ---
+kaggle.json
+
+# --- Local environment variables ---
+*.env
+.env/
