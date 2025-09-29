@@ -32,6 +32,7 @@ runs/
 # --- Datasets ---
 dataset_yolo/
 Face emotion datasets/
+dataset_split/
 
 # --- Credentials ---
 kaggle.json
